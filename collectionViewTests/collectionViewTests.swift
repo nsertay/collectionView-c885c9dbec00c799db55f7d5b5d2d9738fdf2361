@@ -8,6 +8,7 @@
 import XCTest
 @testable import collectionView
 
+//tests
 final class MyApiManagerDelegateSpy {
     
 }
